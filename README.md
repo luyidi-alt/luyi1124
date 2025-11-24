@@ -52,7 +52,7 @@
 1. **克隆仓库**
 
 ```bash
-git clone https://github.com/你的用户名/四季汉字笔画学习器.git
+git clone https://github.com/luyidi-alt/四季汉字笔画学习器.git
 cd 四季汉字笔画学习器
 ```
 
