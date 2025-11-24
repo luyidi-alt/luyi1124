@@ -1,0 +1,5 @@
+{
+  "name": "四季汉字笔画学习器",
+  "description": "基于 Gemini API 和 Hanzi Writer 的现代化交互式汉字练字应用，提供动态笔画演示与智能释义。",
+  "requestFramePermissions": []
+}
